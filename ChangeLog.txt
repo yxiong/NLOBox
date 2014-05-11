@@ -1,0 +1,16 @@
+May 10, 2014 (v0.3) ---
+  Rename the toolbox to "NLOBox".
+  Add BFGS algorithm for general minimization problems.
+
+Feb 05, 2014 (v0.2.1) ---
+  Support using finite difference to compute Jacobian matrix.
+
+Jan 30, 2014 (v0.2) ---
+  Support bounded constraints.
+
+Jan 22, 2014 (v0.1.1) ---
+  Minor update for robustness.
+
+Jan 20, 2014 (v0.1) ---
+  Infrastructure and documentation.
+  Levenberg-Marquardt algorithm.
